@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+go with the flo(w)
+this is not a quote or is it?
+To be, or not to be, that is the question
